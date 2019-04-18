@@ -1,15 +1,5 @@
 ---
 title: Mais de nós mesmos
-excerpt: "Existe uma separação muito clara, para cada de um nós, entre o que precisamos fazer e o que gostamos de fazer."
-last_modified_at: 2019-04-04T10:27:01-05:00
-date: 2019-04-04
-categories:
-  - Post
-tags: 
-  - reflexão
-  - cotidiano
-categories:
-  - textos
 image: 
   thumbnail: /assets/images/James-Lipnickas-08-400x200.jpg
 ---
