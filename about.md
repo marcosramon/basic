@@ -8,8 +8,4 @@ Marcos Ramon é professor de filosofia e pesquisador nas áreas de estética, ci
 - Podcast Ficções
 - Curriculum Vitæ
 - Orcid
-
-actions:
-  - label: "Email"
-    icon: email
-url: "mailto:contato@marcosramon.net"
+- Email: :email: [contato@marcosramon.net]("mailto:contato@marcosramon.net")
