@@ -1,6 +1,4 @@
 ---
-image:
-  thumbnail: /assets/images/frustração-400x200.jpg
 title: "Frustração"
 excerpt: "É difícil lidar com a quebra de expectativas."
 last_modified_at: 2019-02-01T10:27:01-05:00
