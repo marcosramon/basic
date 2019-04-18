@@ -47,6 +47,7 @@ feed:
   path: atom.xml
 disqus:
   shortname: marcosramon
+copyright: "Marcos Ramon"
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
