@@ -4,7 +4,7 @@ layout: about
 picture: /assets/images/toll-site.png
 ---
 
-Marcos Ramon é professor de filosofia e pesquisador nas áreas de estética, cibercultura e tecnologia digital.
+Eu sou pesquisador, professor e podcaster, morando em Brasília e pesquisando cibercultura, estética e cultura digital. Aqui você encontra meu blog, podcast e outros materiais relacionados ao meu trabalho. 
 - Podcast Ficções
 - Curriculum Vitæ
 - Orcid
