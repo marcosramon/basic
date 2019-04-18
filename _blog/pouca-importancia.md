@@ -11,7 +11,9 @@ tags:
 categories:
   - crônicas
 image:
+  path: /assets/images/cyril-rolando-digital-illustrations-10.jpg
   thumbnail: /assets/images/cyril-rolando-digital-illustrations-10-400x200.jpg
+  caption: Ilustração de [Cyril Rolando](https://www.behance.net/aquasixio)
 ---
 
 Em muitos momentos de nossas vidas acabamos duvidando de que as coisas se encaminham como deveriam (ou como poderiam) ser. Cada de um nós já sentiu, em algum momento, aquela estranha sensação de ter o mundo todo girando ao nosso redor. É como se fôssemos Truman descobrindo que está dentro de um programa de televisão. Tudo acontece por nossa causa, para nos ajudar ou prejudicar. Somos importantes; todo mundo nos nota, nos leva em conta em suas ações e palavras.
@@ -19,6 +21,3 @@ Em muitos momentos de nossas vidas acabamos duvidando de que as coisas se encami
 Mas, depois de alguma reflexão, acaba ficando mais fácil acreditar no que faz mais sentido: ninguém se importa com a gente tanto assim. As outras pessoas pensam em outras coisas, e se incomodam com outras questões. Não ocupamos (olha só que incrível!) a mente alheia durante as 24 horas do dia.  
 
 Pode parecer desestimulante falar sobre a pouca importância de cada um de nós, mas eu penso o contrário. É libertador poder ser você mesmo, alguém que luta pelo que quer e acredita, sem uma legião de gente interessada em cada passo seu. Viver é mais simples do que parece.
-
-<img src="/assets/images/cyril-rolando-digital-illustrations-10.jpg">
-*Ilustração de [Cyril Rolando](https://www.behance.net/aquasixio)*
