@@ -1,7 +1,19 @@
 ---
-image: 
-  thumbnail: /assets/images/James-Lipnickas-08-400x200.jpg
-  caption: "Desenho de [James Lipnickas](http://jameslipnickas.com/index.html)"
+title: "Pouca importância"
+excerpt: "Em muitos momentos de nossas vidas acabamos duvidando de que as coisas se encaminham como deveriam (ou como poderiam) ser."
+last_modified_at: 2019-02-23T10:27:01-05:00
+date: 2019-02-23
+categories:
+  - Post
+tags: 
+  - reflexão
+  - individualidade
+categories:
+  - crônicas
+---
+
+---
+title: Mais de nós mesmos
 excerpt: "Existe uma separação muito clara, para cada de um nós, entre o que precisamos fazer e o que gostamos de fazer."
 last_modified_at: 2019-04-04T10:27:01-05:00
 date: 2019-04-04
@@ -12,6 +24,9 @@ tags:
   - cotidiano
 categories:
   - textos
+image: 
+  thumbnail: /assets/images/James-Lipnickas-08-400x200.jpg
+  caption: "Desenho de [James Lipnickas](http://jameslipnickas.com/index.html)"
 ---
 
 Existe uma separação muito clara, para cada de um nós, entre o que precisamos fazer e o que gostamos de fazer. Na maior parte do tempo, e não podia deixar de ser assim, nos dedicamos àquilo que é necessário, a todas as coisas que fazemos porque delas depende nossa subsistência e nosso bem estar material. No entanto, a vida não é só isso e, em um mundo ideal, haveria espaço para mais de nós mesmos - cada um encontrando um meio de não deixar de sentir gosto pela vida e pelas possibilidades que ela oferece.
