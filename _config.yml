@@ -89,3 +89,17 @@ defaults:
     values:
       layout: post
       read_time: true
+  # _blog
+  - scope:
+      path: "_blog"
+      type: blog
+    values:
+      layout: post
+      read_time: true
+   # _ficcoes
+  - scope:
+      path: "_ficcoes"
+      type: ficcoes
+    values:
+      layout: post
+      read_time: true
