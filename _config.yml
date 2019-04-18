@@ -46,7 +46,7 @@ plugins: # previsously gems
 feed:
   path: atom.xml
 disqus:
-  shortname: marcosramon
+  shortname: mramon
 copyright: "Marcos Ramon"
 
 # Pagination - https://jekyllrb.com/docs/pagination/
