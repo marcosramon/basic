@@ -16,4 +16,4 @@ Mas a vida é desigual (mais uma vez, como não poderia deixar de ser) e enquant
 
 O desafio, no que se refere a esse tema, é aprender a insistir. Quem desiste e entrega os pontos desde o início afunda no desgosto e acha, com toda a convicção que a gente sabe ter nos momentos de angústia, que a vida não vale a pena. Mas a vida vale muito, e sempre haverá mais para buscar do que a simples obrigação de viver. Só que é preciso lutar por esse direito. E é isso que eu tento fazer, todos os dias.
 
-<img src="assets/images/James-Lipnickas-08.jpg>
+<img src="assets/images/James-Lipnickas-08.jpg">
