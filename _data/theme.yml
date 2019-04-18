@@ -10,18 +10,18 @@ t:
   menu: "Menu"
   search: "Search"
   site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
+  results_found: "Resultado(s) encontrado(s)"
+  search_placeholder_text: "Pesquise..."
   home: "Home"
-  newer: "Newer"
-  older: "Older"
+  newer: "Recentes"
+  older: "Antigos"
   email: "Email"
   subscribe: "Subscribe"
-  read_more: "Read More"
+  read_more: "Leia mais"
   posts: "Posts"
   page: "Page"
   of: "of"
-  min_read: "min read"
+  min_read: "min leitura"
   present: "Present"
 
 # Google Fonts
@@ -36,3 +36,4 @@ google_fonts:
 navigation_pages:
   - about.md
   - cv.md
+  - tags.md
