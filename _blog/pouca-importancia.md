@@ -1,6 +1,5 @@
 ---
 title: "Pouca importância"
-layout: blog
 excerpt: "Em muitos momentos de nossas vidas acabamos duvidando de que as coisas se encaminham como deveriam (ou como poderiam) ser."
 last_modified_at: 2019-02-23T10:27:01-05:00
 date: 2019-02-23
