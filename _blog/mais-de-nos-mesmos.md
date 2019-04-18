@@ -2,7 +2,7 @@
 title: "Mais de nós mesmos"
 image: 
   path: /assets/images/James-Lipnickas-08.jpg
-  thumbnail: /assets/images/James-Lipnickas-08.jpg-400x200.jpg
+  thumbnail: /assets/images/James-Lipnickas-08-400x200.jpg
   caption: "Desenho de [James Lipnickas](http://jameslipnickas.com/index.html)"
 ---
 
