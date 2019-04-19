@@ -19,6 +19,6 @@ Mas, depois de alguma reflexão, acaba ficando mais fácil acreditar no que faz 
 Pode parecer desestimulante falar sobre a pouca importância de cada um de nós, mas eu penso o contrário. É libertador poder ser você mesmo, alguém que luta pelo que quer e acredita, sem uma legião de gente interessada em cada passo seu. Viver é mais simples do que parece.
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}assets/images/cyril-rolando-digital-illustrations-10.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cyril-rolando-digital-illustrations-10.jpg" alt="">
   <figcaption>Ilustração de <a href="https://www.behance.net/aquasixio">Cyril Rolando</a>.</figcaption>
 </figure> 
