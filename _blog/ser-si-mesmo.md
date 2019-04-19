@@ -24,5 +24,5 @@ Em um mundo complexo como o nosso as identidades que assumimos (e desse jeito me
 
 <figure class="align-center">
   <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Cinta+Vidal.jpg" alt=""></a>
-  <figcaption>Ilustração de [Cinta Vidal](https://cintavidal.com/)</figcaption>
+  <figcaption>Ilustração de <a href:"https://cintavidal.com/">Cinta Vidal</a></figcaption>
 </figure> 
