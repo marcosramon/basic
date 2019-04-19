@@ -3,6 +3,7 @@ title: Blog
 layout: collection
 permalink: /blog/
 collection: blog
+sort_order: reverse
 entries_layout: grid
 ---
 
