@@ -22,7 +22,7 @@ Por fim, o filósofo francês Paul Ricoeur discute essa questão considerando a 
 
 Independente da forma como se compreende a questão, parece inevitável perceber o mal como uma condição da vida humana. Afinal, estamos sempre nos debatendo contra ele, seja nos outros ou em nós mesmos.
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Stefan+Zsaitsits.jpg" alt="">
   <figcaption>Desenho de <a href="https://www.behance.net/Stefan_Z">Stefan Zsaitsits</a>.</figcaption>
 </figure> 
