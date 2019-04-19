@@ -19,7 +19,7 @@ que foram grandes mas passaram, com o pioneirismo que nem sempre foi reconhecido
 
 Rita Lee, o livro, vale muito a leitura. E Rita Lee, a artista, precisa ser ouvida e apreciada. Por algum tempo fui, como ela mesma diz no livro, um viúvo dos [Mutantes](https://g.co/kgs/etAvKg), e só descobri a discografia dela recentemente. De certa forma, foi bom. Encontrei uma musicista e compositora com a qual não contava e esbarrei em uma contadora de histórias de primeira. Terminei o livro meio cético e ainda assim muito interessado em tudo que li. Qualquer autobiografia ruim pode estar cheia de verdades, mas o encanto e a curiosidade só aparecem nas boas. Essa, é assim.
 
-<figure style="width: 150px" class="align-center">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rita-lee.jpeg" alt="">
 </figure> 
 
