@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: pt-BR
 title: Marcos Ramon
-email:
+email: contato@marcosramon.net
 description: Filosofia, arte e cotidiano
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://marcosramon.github.io"
@@ -51,6 +51,7 @@ feed:
   path: atom.xml
 disqus:
   shortname: mramon
+google_analytics: UA-25904919-5
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
