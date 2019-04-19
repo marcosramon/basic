@@ -17,3 +17,8 @@ Em muitos momentos de nossas vidas acabamos duvidando de que as coisas se encami
 Mas, depois de alguma reflexão, acaba ficando mais fácil acreditar no que faz mais sentido: ninguém se importa com a gente tanto assim. As outras pessoas pensam em outras coisas, e se incomodam com outras questões. Não ocupamos (olha só que incrível!) a mente alheia durante as 24 horas do dia.  
 
 Pode parecer desestimulante falar sobre a pouca importância de cada um de nós, mas eu penso o contrário. É libertador poder ser você mesmo, alguém que luta pelo que quer e acredita, sem uma legião de gente interessada em cada passo seu. Viver é mais simples do que parece.
+
+<figure style="width: 400px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}assets/images/cyril-rolando-digital-illustrations-10.jpg" alt="">
+  <figcaption>Ilustração de <a href="https://www.behance.net/aquasixio">Cyril Rolando</a>.</figcaption>
+</figure> 
