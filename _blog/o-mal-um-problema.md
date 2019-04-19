@@ -24,5 +24,5 @@ Independente da forma como se compreende a questão, parece inevitável perceber
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Stefan+Zsaitsits.jpg" alt="">
-  <figcaption>Desenho de <a href="https://www.behance.net/Stefan_Z">Stefan Zsaitsits</a>.</figcaption>
-</figure> 
+  <figcaption>Ilustração de <a href="https://www.behance.net/aquasixio">Cyril Rolando</a>.</figcaption>
+</figure>
