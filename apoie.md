@@ -7,8 +7,6 @@ entries_layout: grid
 
 Se gosta dos meus textos e podcasts e quiser me ajudar a continuar produzindo, aqui seguem algumas maneiras:
 
-{% include toc.html %}
-
 ## Me siga
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
