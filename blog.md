@@ -1,7 +1,6 @@
 ---
 title: Blog
 layout: collection
-sort_order: forward
 permalink: /blog/
 collection: blog
 entries_layout: grid

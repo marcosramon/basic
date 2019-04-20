@@ -1,7 +1,6 @@
 ---
 title: Filosofia
 layout: page
-sort_order: reverse
 permalink: /filosofia/
 entries_layout: grid
 ---
