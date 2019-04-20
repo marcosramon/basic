@@ -11,8 +11,8 @@ Se gosta dos meus textos e podcasts e quiser me ajudar a continuar produzindo, a
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-<span class="icon icon--twitter">{% include icon-twitter.svg %}</span>"https://twitter.com/mrtollens"
-  - [Youtube](http://youtube.com/conexaofilosofica)
+<span class="icon icon--twitter">{% include icon-twitter.svg %}</span> [@mrtollens](https://twitter.com/mrtollens)
+<span class="icon icon--youtube">{% include icon-youtube.svg %}</span> [Concexão Filosófica](http://youtube.com/conexaofilosofica)
 
 ## Compre um dos meus livros
 
@@ -25,7 +25,4 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no Goodr
 
 Eu tenho uma lista de desejos no site da Amazon. Se for o caso, você pode comprar alguma coisa lá pra mim.
 
-actions:
-  - label: "Amazon"
-    icon: download
-    url: "https://amzn.to/2DnqGW4"
+ - [Lista de desejos](https://amzn.to/2DnqGW4)
