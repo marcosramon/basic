@@ -19,6 +19,6 @@ Esses dias vi no Twitter (o lugar em que os memes dominam o tempo das pessoas) m
 
 <img src="/assets/images/describe.jpg">
 
-Entrei no jogo e tentei me definir com três discos, sem muito critério, é verdade, exceto o fato de que são discos que ouvi muito, e ainda hoje voltam pra mim (agora, via Spotify).
+Entrei no jogo e [tentei me definir com três discos](https://twitter.com/mrtollens/status/1119402519103459328?s=19), sem muito critério, é verdade, exceto o fato de que são discos que ouvi muito, e ainda hoje voltam pra mim (agora, via Spotify).
 
 É curioso como, lembrando os discos, livros e filmes que já passaram pela sua vida, você relembra também um pouco das coisas que você quis, sonhou e realizou. A arte é uma outra forma de ler a vida. Sem a arte (Nietzsche escreveu "sem a música", mas podemos ampliar a ideia sem problema) a vida seria mesmo um erro.
