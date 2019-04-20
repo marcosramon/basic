@@ -11,13 +11,8 @@ Se gosta dos meus textos e podcasts e quiser me ajudar a continuar produzindo, a
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-actions:
-  - label: "Twitter"
-    icon: twitter
-    url: "https://twitter.com/mrtollens"
-  - label: "Youtube"
-    icon: youtube
-    url: "http://youtube.com/conexaofilosofica"
+<span class="icon icon--twitter">{% include icon-twitter.svg %}</span>"https://twitter.com/mrtollens"
+  - [Youtube](http://youtube.com/conexaofilosofica)
 
 ## Compre um dos meus livros
 
