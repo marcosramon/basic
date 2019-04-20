@@ -11,8 +11,7 @@ Se gosta dos meus textos e podcasts e quiser me ajudar a continuar produzindo, a
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-<span class="icon icon--twitter">{% include icon-twitter.svg %}</span> [@mrtollens](https://twitter.com/mrtollens)
-<span class="icon icon--youtube">{% include icon-youtube.svg %}</span> [Conexão Filosófica](http://youtube.com/conexaofilosofica)
+<span class="icon icon--twitter">{% include icon-twitter.svg %}</span> [@mrtollens](https://twitter.com/mrtollens) | <span class="icon icon--youtube">{% include icon-youtube.svg %}</span> [Conexão Filosófica](http://youtube.com/conexaofilosofica)
 
 ## Compre um dos meus livros
 
