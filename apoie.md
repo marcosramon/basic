@@ -18,6 +18,13 @@ Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outr
   <a href="http://youtube.com/conexaofilosofia" onclick="ga('send', 'event', 'link', 'click', 'Instagram follow');" class="btn"><i class="fa fa-instagram"></i> Instagram</a>
 </div>
 
+## Compre um dos meus livros
+
+Compre um dos meus livros no site da Amazon e depois faça uma análise no Goodreads ou Skoob.
+
+ - [A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF)
+ - [Descompasso](https://amzn.to/2XvjDlH)
+
 ## Envie uma doação
 
 Se puder e quiser fazer uma doação você pode utilizar o PayPal.
