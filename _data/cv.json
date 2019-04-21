@@ -49,6 +49,9 @@
       "startDate": "2012",
       "endDate": "2014",
       "gpa": "4.0",
+      "courses": [
+        "DB1101 - Perpendicular Crosstalk",
+        "CS2011 - Introduction to Moisturization"
       ]
     }
   ],
