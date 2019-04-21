@@ -19,6 +19,8 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no Goodr
 
  - [A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF)
  - [Descompasso](https://amzn.to/2XvjDlH)
+ 
+ ---
 
 ## Compre alguma coisa pra mim
 
