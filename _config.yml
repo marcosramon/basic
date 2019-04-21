@@ -37,10 +37,10 @@ algolia:
 collections:
   blog:
     output: true
-permalink: /:collection/:path/
+    permalink: /:collection/:path/
   ficcoes:
     output: true
-permalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 # Build settings
 markdown: kramdown
