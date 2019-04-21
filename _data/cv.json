@@ -4,12 +4,12 @@
     "label": "Professor de Filosofia, Pesquisador",
     "picture": "",
     "email": "marcos.ferreira@ifb.edu.br",
-    "phone": "(61)98210-7297",
+    "phone": "",
     "website": "https://marcosramon.net",
     "summary": "Professor de filosofia e pesquisador nas áreas de cibercultura, estética e tecnologia digital",
     "location": {
       "address": "SGAN 610",
-      "postalCode": "CA 94115",
+      "postalCode": "70830-450",
       "city": "Brasília",
       "countryCode": "BR",
       "region": "Distrito Federal"
@@ -34,10 +34,10 @@
       "website": "https://www.ifb.edu.br",
       "startDate": "2010",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "summary": "Professor lecionando na Educação Básica, Cursos técnicos, Graduações e Mestrado",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Professor do Mestrado Profissional em Educação Profissional e Tecnológica.",
+        "Professor do Ensino Médio Integrado em Informática."
       ]
     }
   ],
