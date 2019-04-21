@@ -38,6 +38,9 @@ collections:
   blog:
     output: true
 permalink: /:collection/:path/
+  ficcoes:
+    output: true
+permalink: /:collection/:path/
 
 # Build settings
 markdown: kramdown
