@@ -1,6 +1,6 @@
 ---
 title: Ficções
-layout: page
+layout: collection
 permalink: /ficcoes/
 entries_layout: grid
 ---
