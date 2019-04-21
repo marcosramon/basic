@@ -13,7 +13,7 @@ tags:
   - Paul Ricoeur
 image: 
   path: /assets/images/ficcoes.jpg
-  thumbnail: /assets/images/ficcoes400x200.jpg
+  thumbnail: assets/images/ficcoes400x200.jpg
   caption: "Podcast Ficções"
 ---
 
