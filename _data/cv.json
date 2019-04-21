@@ -48,20 +48,20 @@
       "studyType": "Doutorado",
       "startDate": "2012",
       "endDate": "2014",
-      "gpa": "4.0",
+      "gpa": 
       "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
+        "",
+        ""
       ]
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     }
   ],
 }
