@@ -18,7 +18,7 @@ title: Marcos Ramon
 email: contato@marcosramon.net
 description: Filosofia, arte e cotidiano
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: "https://marcosramon.github.io"
+url: "https://marcosramon.net"
 author:
   name: Marcos Ramon
   twitter: mrtollens
@@ -37,7 +37,10 @@ algolia:
 collections:
   blog:
     output: true
-permalink: /:collection/:path/
+    permalink: /:collection/:path/
+  ficcoes:
+    output: true
+    permalink: /:collection/:path/
 
 # Build settings
 markdown: kramdown

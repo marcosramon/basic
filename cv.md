@@ -2,7 +2,7 @@
 title: Curriculum Vitæ
 layout: cv
 actions:
-  - label: "Download as PDF"
+  - label: "Lattes"
     icon: pdf
-    url: "#pdf-asset"
+    url: "http://lattes.cnpq.br/9538072103558772"
 ---
