@@ -9,6 +9,10 @@ tags:
   - cotidiano
 categories:
   - podcast
+image: 
+  path: /assets/images/ficcoes.jpg
+  thumbnail: assets/images/ficcoes400x200.jpg
+  caption: "Podcast Ficções"  
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Que-horas-so-e3pik6/a-aderva" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
