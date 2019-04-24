@@ -34,8 +34,6 @@ Caso possa, faça uma assinatura mensal no PicPay. Mais informações sobre os p
 
 Se você comprar alguma coisa na Amazon utilizando o meu link de associado, eu ganho uma pequena comissão. Eu também tenho uma lista de desejos, caso você queira comprar alguma coisa para mim. 
 
-<a href="https://www.amazon.com/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;tag=mademist-20&amp;linkId=P557QDXPWEYIZTDS" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-amazon"></use></svg> Shop Amazon </a>
+<a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-amazon"></use></svg> Comnpre na Amazon </a>
 
-<a href="http://amzn.com/w/1K58RT2NS0SDP" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-amazon"></use></svg> My Amazon Wish List</a>
-
- - [Lista de desejos](https://amzn.to/2DnqGW4)
+<a href="https://amzn.to/2DnqGW4" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-amazon"></use></svg> Minha lista de desejos</a>
