@@ -5,7 +5,7 @@ permalink: /apoie/
 entries_layout: grid
 ---
 
-Se gosta dos meus textos e podcasts e quiser me ajudar a continuar produzindo, aqui seguem algumas maneiras:
+Se você gosta dos meus textos e podcasts e quer me ajudar a continuar produzindo, aqui seguem algumas maneiras:
 
 ## Me siga
 
@@ -17,7 +17,7 @@ Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outr
  
 ## Compre um dos meus livros
 
-Compre um dos meus livros no site da Amazon e depois faça uma análise no Goodreads ou Skoob.
+Compre um dos meus livros no site da Amazon e depois faça uma análise no [Goodreads](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) ou [Skoob](https://www.skoob.com.br/descompasso-841935ed847109.html).
 
  - [A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF)
  - [Descompasso](https://amzn.to/2XvjDlH)
