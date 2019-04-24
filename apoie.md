@@ -37,3 +37,12 @@ Se você comprar alguma coisa na [Amazon](https://www.amazon.com.br/?&_encoding=
 <a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/_includes/icon-amazon.svg"></use></svg> Compre na Amazon </a> 
 
 <a href="https://amzn.to/2DnqGW4" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/_includes/icon-amazon.svg"></use></svg> Minha lista de desejos</a>
+
+actions:
+  - label: "Amazon"
+    icon: amazon
+    url: "https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325"
+  - label: "Livros"
+    icon: download
+    url: "https://www.amazon.com.br/s?i=digital-text&rh=p_27%3AMarcos+Ramon&s=relevancerank&text=Marcos+Ramon&ref=dp_byline_sr_ebooks_1"
+---
