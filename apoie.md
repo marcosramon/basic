@@ -30,8 +30,12 @@ Caso possa, faça uma assinatura mensal no PicPay. Mais informações sobre os p
 
  ---
 
-## Compre alguma coisa pra mim
+## Compre alguma coisa
 
-Eu tenho uma lista de desejos no site da Amazon. Se for o caso, você pode comprar alguma coisa lá pra mim.
+Se você comprar alguma coisa na Amazon utilizando o meu link de associado, eu ganho uma pequena comissão. Eu também tenho uma lista de desejos, caso você queira comprar alguma coisa para mim. 
+
+<a href="https://www.amazon.com/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;tag=mademist-20&amp;linkId=P557QDXPWEYIZTDS" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-amazon"></use></svg> Shop Amazon </a>
+
+<a href="http://amzn.com/w/1K58RT2NS0SDP" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn"><svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="/assets/icons/icons.svg#icon-amazon"></use></svg> My Amazon Wish List</a>
 
  - [Lista de desejos](https://amzn.to/2DnqGW4)
