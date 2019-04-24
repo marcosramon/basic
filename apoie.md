@@ -23,6 +23,12 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no Goodr
  - [Descompasso](https://amzn.to/2XvjDlH)
  
  ---
+ 
+## Faça uma assinatura no PicPay
+
+Caso possa, faça uma assinatura mensal no PicPay. Mais informações sobre os planos em [picpay.me/ficcoes](https://picpay.me/ficcoes) ou busque por @ficcoes no app.
+
+ ---
 
 ## Compre alguma coisa pra mim
 
