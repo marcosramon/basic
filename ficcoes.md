@@ -5,9 +5,12 @@ permalink: /ficcoes/
 collection: ficcoes
 entries_layout: grid
 actions:
-  - label: "Twitter"
+  - label: "@PodcastFiccoes"
     icon: twitter
     url: "https://twitter.com/PodcastFiccoes"
+  - label: "Email"
+    icon: gmail
+    url: "mailto:contato@marcosramon.net"
 ---
 
 Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades.
