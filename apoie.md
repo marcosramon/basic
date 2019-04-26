@@ -11,10 +11,8 @@ Se você gosta dos meus textos e podcasts e quer me ajudar a continuar produzind
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-<center>
-<a href="https://twitter.com/mrtollens" alt="@mrtollens"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-<a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica"><span class="icon icon--youtube">{% include icon-youtube.svg %}</span></a>
-</center>
+<a href="https://twitter.com/mrtollens" alt="@mrtollens" target="_blank"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
+<a href="http://youtube.com/conexaofilosofica" alt="conexão filosófica" target="_blank"><span class="icon icon--youtube">{% include icon-youtube.svg %}</span></a>
 
 ---
  
