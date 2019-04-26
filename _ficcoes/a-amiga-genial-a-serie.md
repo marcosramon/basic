@@ -1,5 +1,5 @@
 ---
-title: "A amiga genial"
+title: "A amiga genial (a série)"
 excerpt: "Sobre a adaptação dos romances da Elena Ferrante."
 date: 2019-04-25
 collection: ficcoes
