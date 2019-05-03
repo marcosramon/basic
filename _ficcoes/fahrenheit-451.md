@@ -1,5 +1,5 @@
 ---
-title: "A comunidade do consumo"
+title: "Fahrenheit 451"
 excerpt: "Quando as distopias se aproximam da gente."
 date: 2019-05-02
 collection: ficcoes
