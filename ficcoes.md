@@ -17,4 +17,4 @@ Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos fi
 
 <iframe src="https://anchor.fm/podcastficcoes/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[Itunes](https://itunes.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?mt=2) | [TuneIn](https://tunein.com/podcasts/Culture/Fices-p610099/) | [Castbox](https://castbox.fm/channel/id2095392?country=br) | [Spotify](https://open.spotify.com/show/0XokkCqQLoqsrzM7EbZU6W) | [RSS Feed](https://anchor.fm/s/a9c85b0/podcast/rss)
+[Itunes](https://itunes.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?mt=2) | [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) | [TuneIn](https://tunein.com/podcasts/Culture/Fices-p610099/) | [Castbox](https://castbox.fm/channel/id2095392?country=br) | [Spotify](https://open.spotify.com/show/0XokkCqQLoqsrzM7EbZU6W) | [RSS Feed](https://anchor.fm/s/a9c85b0/podcast/rss)
