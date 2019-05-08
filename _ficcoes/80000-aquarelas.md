@@ -30,4 +30,6 @@ Como era o mundo antes da fotografia?
   <figcaption>Untitled (Undated), Sir William Eden, 7th Baronet.</figcaption>
 </figure>
 
+---
+
 Se você gosta do [Ficções](https://marcosramon.net/ficcoes/) e quer me ajudar a continuar produzindo, acesse [marcosramon.net/apoie](https://marcosramon.net/apoie/) e veja como pode contribuir. 
