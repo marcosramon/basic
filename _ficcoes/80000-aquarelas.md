@@ -20,16 +20,14 @@ image:
 Como era o mundo antes da fotografia?
  - [Watercolour World](https://www.watercolourworld.org/)
  
-<figure style="width: 300px" class="align-left">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Egyptian_chameleon.jpg" alt="">
   <figcaption>Egyptian chameleon (November 1686), Richard Waller.</figcaption>
 </figure>
 
-<figure style="width: 300px" class="align-left">
+<figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Untitled.jpg" alt="">
   <figcaption>Untitled (Undated), Sir William Eden, 7th Baronet.</figcaption>
 </figure>
-
-<br>
 
 Se você gosta do [Ficções](https://marcosramon.net/ficcoes/) e quer me ajudar a continuar produzindo, acesse [marcosramon.net/apoie](https://marcosramon.net/apoie/) e veja como pode contribuir. 
