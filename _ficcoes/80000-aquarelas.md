@@ -20,17 +20,17 @@ image:
 Como era o mundo antes da fotografia?
  - [Watercolour World](https://www.watercolourworld.org/)
  
-<figure style="width: 300px" class="align-center">
+<figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Egyptian_chameleon.jpg" alt="">
   <figcaption>Egyptian chameleon (November 1686), Richard Waller.</figcaption>
 </figure>
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Untitled.jpg" alt="">
   <figcaption>Untitled (Undated), Sir William Eden, 7th Baronet.</figcaption>
 </figure>
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Small Pratincole.jpg" alt="">
   <figcaption>Small Pratincole (Glareola lactea), 1800s, Attributed to Paul Huet.</figcaption>
 </figure>
