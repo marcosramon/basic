@@ -3,7 +3,7 @@ title: "80.000 aquarelas"
 excerpt: "Como era o mundo antes da fotografia?"
 date: 2019-05-08
 collection: ficcoes
-published: true
+published: false
 categories:
   - podcast
 tags: 
