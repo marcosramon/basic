@@ -1,7 +1,6 @@
 ---
 title: "O mal é um problema?"
-excerpt: "
-Uma discussão recorrente dentro da filosofia é a reflexão sobre o problema do mal. Digo “problema”, mas é preciso pontuar que, para muitos autores, não se trata de algo a que se pode recorrer com uma solução."
+excerpt: "Uma discussão recorrente dentro da filosofia é a reflexão sobre o problema do mal. Digo “problema”, mas é preciso pontuar que, para muitos autores, não se trata de algo a que se pode recorrer com uma solução."
 last_modified_at: 2018-12-09T10:27:01-05:00
 date: 2018-12-09
 tags: 
