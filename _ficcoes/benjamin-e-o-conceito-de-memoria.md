@@ -3,7 +3,7 @@ title: "Benjamin e o conceito de memória"
 excerpt: "Sobre a importância de narrar (e lembrar) a própria história."
 date: 2019-05-11
 collection: ficcoes
-published: false
+published: true
 categories:
   - podcast
 tags: 
