@@ -3,7 +3,6 @@ title: "What Remains of Edith Finch"
 excerpt: "Sobre jogos e narrativas."
 date: 2019-05-17
 collection: ficcoes
-published: true
 categories:
   - podcast
 tags: 
