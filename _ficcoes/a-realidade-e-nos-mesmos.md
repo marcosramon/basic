@@ -20,6 +20,6 @@ Como saber que nós somos quem achamos que somos?
 
 Texto no blog: [A realidade e nós mesmos](https://marcosramon.net/blog/a-realidade-e-nos-mesmos/)
 
-[Download do episódio em mp3](http://bit.ly/ficcoes446)
+[Download do episódio em mp3](http://bit.ly/ficcoes447)
  
 Se você gosta do [Ficções](https://marcosramon.net/ficcoes/) e quer me ajudar a continuar produzindo, você pode fazer isso pelo [padrim.com.br/ficcoes](https://www.padrim.com.br/ficcoes), pelo [picpay.me/ficcoes](https://app.picpay.com/user/ficcoes) ou acessando [marcosramon.net/apoie](https://marcosramon.net/apoie/) e vendo outras maneiras de contribuir.
