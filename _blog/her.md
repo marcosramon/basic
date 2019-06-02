@@ -16,7 +16,7 @@ Faz um tempo já que eu queria escrever algo sobre o filme [Ela](https://www.imd
 
 O personagem de [Joaquin Phoenix](https://pt.wikipedia.org/wiki/Joaquin_Phoenix) é um escritor que redige cartas cursivas encomendadas. Mas ele não escreve as cartas manualmente. Na verdade, nem digitar ele digita. Ele narra o texto, que é transformado, no computador, em uma letra correspondente ao que se esperaria do cliente que fez a encomenda. Mas por que não escrever uma carta pessoalmente, por que encomendar a alguém? O mundo onde se passa <i>Her</i> parece um pouco com aquilo que está descrito em <i>Admirável mundo novo</i>: tudo caminha bem, mas as pessoas são um pouco menos pessoas. E a falta de se sentir mais humano faz as pessoas desejarem um pouco da realidade (no sentido de algo corpóreo mesmo) que já não conhecem mais.
 
-<figure style="width: 300px" class="align-center">
+<figure style="" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/her.jpeg" alt="">
   <figcaption><i>Her</i>, de Spike Jonze.</figcaption>
 </figure>
