@@ -17,7 +17,7 @@ lang: pt-BR
 title: Marcos Ramon
 email: contato@marcosramon.net
 description: Filosofia, arte e cotidiano
-baseurl: # base url
+baseurl: "/basic"
 url: "http://marcosramon.github.io"
 author:
   name: Marcos Ramon
