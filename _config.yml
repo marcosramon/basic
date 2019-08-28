@@ -17,8 +17,8 @@ lang: pt-BR
 title: Marcos Ramon
 email: contato@marcosramon.net
 description: Filosofia, arte e cotidiano
-baseurl: "/basic"
-url: "https://marcosramon.net"
+baseurl: # base url
+url: # url
 author:
   name: Marcos Ramon
   twitter: mrtollens
